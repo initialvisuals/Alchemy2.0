@@ -1,5 +1,5 @@
-# UPDATE - Alchemy is no longer maintained.
-This repository is for archival purposes.
+# UPDATE - Alchemy is possibly now being maintained, by Initial Visuals and Ai Tooling
+
 
 ----
 

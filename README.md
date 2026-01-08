@@ -1,5 +1,5 @@
 # UPDATE - Alchemy is possibly now being maintained, by Initial Visuals and Ai Tooling
-
+WE ARE TARGETING WEB AND WINDOWS AND LINUX ONLY!!!!!! sorry mac people we dont have any mac to run it on, feel free to fork it.
 
 ----
 
